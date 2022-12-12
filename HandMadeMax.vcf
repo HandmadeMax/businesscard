@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dupire;Maxence;;;
+FN:Maxence Dupire
+ORG:HandMade Max
+TEL;TYPE=cell:0781770385
+ADR;TYPE=dom,home,postal:;;rue de la fontaine;METEREN;;;
+EMAIL;TYPE=internet,pref:maxence.dupire@gmail.com
+URL:www.handmademax.fr
+PHOTO;ENCODING=BASE64;TYPE=PNG:iVBORw0KGgoAAAANSUhEUgAAAEAAAAAtCAIAAACRYfoNA
+ AAACXBIWXMAAA7EAAAOxAGVKw4b
+NOTE:Generated with vCard online generator by Daniel Mihalcea.
+END:VCARD
